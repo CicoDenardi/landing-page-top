@@ -8,7 +8,7 @@ a {
 }
 
 button {
-   background-color: #0278ff;
+   background-color: #3882f6;
    border-radius: 8px; 
    color: #F9FAF8;
    padding: 6px 18px;
@@ -90,12 +90,41 @@ button {
     color: #F9FAF8;
 }
 
-
-
 .adjust-img {
     width: 400px;
 }
 
+.second-section {
+    background-color: white;
+    padding-left: 140px;
+    padding-right: 140px;
+}
 
+.retitle {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+.topper5 {
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+.reviewofc {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 270px;
+}
+
+.customersimage {
+    width: 270px;
+    height: 270px;
+}
 
 
