@@ -7,7 +7,7 @@ a {
     text-decoration: none;
 }
 
-button {
+.signupbuttom {
    background-color: #3882f6;
    border-radius: 8px; 
    color: #F9FAF8;
@@ -161,4 +161,54 @@ button {
     font-size: 18px;
     color: #1F2937;
     font-weight: 900;
+}
+
+.topper9 {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 8px; 
+    padding: 50px 80px;
+    gap: 80px;
+}
+
+.fourth-section {
+    background-color: white;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 100px;
+    padding-top: 100px;    
+}
+
+.topper10 {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.topper11, .topper12 {
+    color: #F9FAF8;
+}
+
+.topper11 {
+    font-weight: 900;
+}
+
+.topper12 {
+    font-weight: lighter;
+}
+
+.topper13 {
+    align-self: center;
+}
+
+.buttonaction {
+    border: white;
+    border-style: solid;
+    background-color: #3882f6;
+    border-radius: 8px; 
+    color: #F9FAF8;
+    padding: 6px 22px;
+    font-weight: bold;
+    border-width: 2px;
 }
