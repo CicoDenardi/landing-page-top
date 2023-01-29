@@ -31,6 +31,7 @@ button {
     padding-bottom: 120px;
     gap: 30px;
     flex-grow: 1;
+    justify-content: space-evenly;
 }
 
 .topper4 {
@@ -90,7 +91,8 @@ button {
 }
 
 .adjust-img {
-    width: 400px;
+    width: 800px;
+    height: 300px;
 }
 
 .second-section {
