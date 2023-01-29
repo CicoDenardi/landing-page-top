@@ -99,6 +99,8 @@ button {
     background-color: white;
     padding-left: 140px;
     padding-right: 140px;
+    padding-bottom:80px;
+    padding-top:40px;    
 }
 
 .retitle {
@@ -106,7 +108,6 @@ button {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
-    padding-top:40px;
     padding-bottom:40px;
 }
 
@@ -128,4 +129,36 @@ button {
     height: 270px;
 }
 
+.third-section {
+    background-color: #E5E7EB;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 140px; 
+    padding-bottom: 140px; 
+   
+}
 
+.topper6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic; 
+    font-weight: lighter;     
+}
+
+.topper7 {
+    align-self: center;
+}
+
+.topper8 {
+    align-self: flex-end;
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: 900;
+}
