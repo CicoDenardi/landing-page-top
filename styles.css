@@ -40,7 +40,7 @@ a {
     gap: 15px;
 }
 
-.first-section {
+.first-section, .footer {
     background-color: #1F2937;
     padding-left: 140px;
     padding-right: 140px;
@@ -211,4 +211,12 @@ a {
     padding: 6px 22px;
     font-weight: bold;
     border-width: 2px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    padding: 20px;
 }
